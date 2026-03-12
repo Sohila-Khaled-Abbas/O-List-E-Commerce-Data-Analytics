@@ -1,0 +1,41 @@
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.json
+data/*.parquet
+data/*.db
+data/*.sqlite
+data/*.feather
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+*.ipynb_checkpoints/
+.pytest_cache/
+
+# Power BI
+*.pbix.bak
+*.pbit
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
